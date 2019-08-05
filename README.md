@@ -1,2 +1,2 @@
-# notes-api
+# Notes API
 Microservice + Flask + MongoDB
